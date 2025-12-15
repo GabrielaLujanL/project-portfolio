@@ -26,7 +26,7 @@ El proyecto sigue un flujo de trabajo estructurado que incluye:
 ## ⚙️ Estructura de Documentos
 
 ```text
-📁 Proyecto Bradescard/
+📁 Bayesian Models - Bradescard Project/
 ├── Preprocessing/
 │   └── pipeline.py
 │       # Limpieza de datos y segmentaciones iniciales
