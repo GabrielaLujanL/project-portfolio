@@ -1,2 +1,2 @@
 # project-portfolio
-Most relevant projects I've done during my bachelor's
+- Most relevant projects I've worked on during my bachelor's degree
